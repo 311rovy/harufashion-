@@ -87,6 +87,4 @@ Even though I wrote every single line of code for this web app, images and some 
 - [Goya WordPress Premium Theme](https://goya.everthemes.com/demo-fashion/)
 - [Lusion WordPress Premium Theme](https://hn.arrowpress.net/lusion/home-minimalist/?currency=USD)
 
-## Author
 
-- [@satnaing](https://github.com/satnaing)
